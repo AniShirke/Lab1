@@ -6,7 +6,7 @@ import java.util.Scanner;
 class Exercise7 {
     public static void main(String args[]) {
 
-        //1
+        //1 Point
        int num;
        boolean flag = false;
 
