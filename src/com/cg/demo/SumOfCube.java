@@ -6,6 +6,7 @@ public class SumOfCube {
 	{
 		return rem*rem*rem;
 	}
+	//Aniket
 	
 	public static void main(String[] args) {
 		System.out.println(sum(123));
